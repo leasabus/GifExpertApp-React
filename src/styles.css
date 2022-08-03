@@ -22,8 +22,6 @@
   }
   h1 {
     font-size: 2rem;
-    
-    
   }
   
   h2 {
@@ -37,8 +35,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    
-     
+      
   }
   
   .card-grid {
